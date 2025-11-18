@@ -9,6 +9,7 @@ IMAGE EDITOR
 제작자: 이성주
 
 문제 발생시 "l9lettuce@gmail.com" 로 연락부탁드립니다.
+
 ---
 
 # 프로젝트 구현 목록
